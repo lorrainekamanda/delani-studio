@@ -1,0 +1,35 @@
+.container{
+    margin: 15px;
+}
+
+.row1{
+background-image: url(/home/lorraine/Desktop/DelaniStudio/images/h_img.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 500px;
+display: block;
+padding-left: 90px;
+}
+ .welcome{
+    padding: 250px;
+    
+    font-size: 34px;
+    padding-left: 450px; 
+}
+.row2{
+    height: 60px;
+    padding-left: 450px;
+    
+}
+.row3{
+    padding-left: 100px;
+    
+}
+.row4{
+    background-image: url(/home/lorraine/Desktop/DelaniStudio/images/s_image.jpg);
+    height: 250px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

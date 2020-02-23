@@ -18,7 +18,15 @@ $("#icon2").click(function(){
   $("#content2").toggle()
 })
  
- 
+ $("#icon3").click(function(){
+  $("#icon3").toggle()
+  $("#content3").toggle()
+})
+$("#content3").click(function(){
+  $("#icon3").toggle()
+  $("#content3").toggle()
+})
+
   
-   
-}
+})
+

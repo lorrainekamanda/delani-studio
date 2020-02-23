@@ -9,7 +9,16 @@ $(document).ready(function(){
   $("#content").toggle()
 })
 
-
-  
+$("#icon2").click(function(){
+   $("#icon2").toggle()
+   $("#content2").toggle()
+ })
+ $("#content2").click(function(){
+  $("#icon2").toggle()
+  $("#content2").toggle()
 })
-
+ 
+ 
+  
+   
+}

@@ -1,20 +1,50 @@
-.container{
-    margin: 15px;
+.container-fluid{
+    margin: 0px;
+    margin-right: 0%;
+    padding-right: 0%;
+    margin: 0px;
+    margin-right: 0px;
+    
 }
 
 .row1{
 background-image: url(/home/lorraine/Desktop/DelaniStudio/images/h_img.jpg);
 background-size: cover;
 background-repeat: no-repeat;
-height: 500px;
-display: block;
-padding-left: 90px;
+height: 100%;
+padding-right: 0px;
+align-items: center;
+padding: 0%;
+height: 800px;
+font-family: 'Ubuntu';
+align-items: center;
+
+
 }
  .welcome{
-    padding: 250px;
-    
-    font-size: 34px;
-    padding-left: 450px; 
+    padding: 80px;
+    font-size: 40px;
+    padding-left: 485px; 
+    color: white;
+    padding-top: 350px;
+    font-family:'Ubuntu';
+    padding-top: 100px;
+    position: absolute;
+}
+#head0{
+    padding-left:150px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 24px;
+    align-items: center;
+}
+#mouse{
+    padding-left:320px ;
+    padding-top: 350px;
+}
+
+#people{
+    padding-top:0px;
 }
 .row2{
     height: 60px;
@@ -23,13 +53,79 @@ padding-left: 90px;
 }
 .row3{
     padding-left: 100px;
+    padding-top: 30px;
+    font-family: 'Ubuntu';
+    padding-bottom: 30px;
     
 }
 .row4{
     background-image: url(/home/lorraine/Desktop/DelaniStudio/images/s_image.jpg);
-    height: 250px;
-    width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 350px;
+    color: white;
+    align-items: center;
+    font-family: 'Ubuntu';
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+#r4words{
+    text-align: center;
+    padding-left: 180px;
+    
+}
+#head1{
+    padding-top: 30px;
+    font-family: 'ubuntu';
+}
+.row5{
+    font-family: 'Ubuntu';
+    padding-bottom: 40PX;
+}
+.col5{
+    padding-bottom: 20px;
 }
 
+body{
+  margin: 0%;
+   margin: 30px; 
+  
+}
+#content{
+    display: none;
+    font-size: 14px;
+}
+#icon1{
+    position: relative;
+}
+
+
+#design{
+    padding-left: 0%;
+    margin-left: 12px;
+    font-size: 18px;
+}
+#development{
+    padding-left: 10px;
+}
+#content2{
+    display: none;
+    font-size: 14px;
+}
+#head1{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#content3{
+    display: none;
+    font-size: 14px;
+}
